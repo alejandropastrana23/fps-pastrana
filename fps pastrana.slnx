@@ -1,11 +1,16 @@
 ﻿<Solution>
   <Project Path="fps.UI.csproj" />
   <Project Path="fps.Game.csproj" />
+  <Project Path="FMODUnityEditor.csproj" />
   <Project Path="Unity.Microgame.Tutorials.csproj" />
   <Project Path="NavMeshComponents.csproj" />
+  <Project Path="FMODUnityResonanceEditor.csproj" />
   <Project Path="fps.AI.csproj" />
+  <Project Path="FMODUnity.csproj" />
   <Project Path="fps.Gameplay.csproj" />
+  <Project Path="FMODUnityHaptics.csproj" />
   <Project Path="Unity.FPS.Tutorials.csproj" />
   <Project Path="NavMeshComponentsEditor.csproj" />
+  <Project Path="FMODUnityResonance.csproj" />
   <Project Path="fps.Editor.csproj" />
 </Solution>
